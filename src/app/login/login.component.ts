@@ -11,9 +11,9 @@ export class LoginComponent implements OnInit {
   constructor() { }
 
   user = {
-    id : 'abc',
-    email: 'manu@gmail.com',
-    password: 'fAEg'
+    id : 'SCS2101/C1',
+    email: 'abc@123.com',
+    password: 'abc'
   };
 
   ngOnInit() {
